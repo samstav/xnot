@@ -1,2 +1,2 @@
 # xnot
-executable notes, manag
+executable notes in your terminal
