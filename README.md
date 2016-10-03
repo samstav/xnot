@@ -1,0 +1,2 @@
+# xnot
+executable notes, manag
